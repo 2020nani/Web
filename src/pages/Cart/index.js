@@ -60,7 +60,6 @@ export default function Cart() {
               </td>
               <td>
                 <div>
-                  {/*adicionar e remover produtos*/}
                   <button type="button">
                     <MdRemoveCircleOutline
                       size={20}
@@ -107,4 +106,3 @@ export default function Cart() {
     </Container>
   );
 }
-
